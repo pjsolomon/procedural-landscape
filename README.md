@@ -10,5 +10,21 @@ By altering the output of the noise function, it became possible to alter the la
 Several different landscape patterns have been hardcoded into the program, which may be utilized by uncommenting where appropriate.
 
 ![2D Island Generation](https://i.imgur.com/BdNCSfX.png)
-![3D Model of Island](https://i.imgur.com/tTnyQZh.gif)
 
+![3D Model of Island]()
+
+# Controls
+Program displays 2D model for 5 seconds, then displays 3D model.
+
+w - Move Forwards
+s - Move Backwards
+a - Move Left
+d - Move Right
+
+q - Rotate Left
+e - Rotate Right
+
+z - Zoom Out
+x - Zoom In
+
+p - Automatically Rotate Model
