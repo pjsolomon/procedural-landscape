@@ -17,14 +17,22 @@ Several different landscape patterns have been hardcoded into the program, which
 Program displays 2D model for 5 seconds, then displays 3D model.
 
 w - Move Forwards
+
 s - Move Backwards
+
 a - Move Left
+
 d - Move Right
 
+
 q - Rotate Left
+
 e - Rotate Right
 
+
 z - Zoom Out
+
 x - Zoom In
+
 
 p - Automatically Rotate Model
