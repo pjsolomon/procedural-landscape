@@ -10,5 +10,5 @@ By altering the output of the noise function, it became possible to alter the la
 Several different landscape patterns have been hardcoded into the program, which may be utilized by uncommenting where appropriate.
 
 ![2D Island Generation](https://i.imgur.com/BdNCSfX.png)
-![3D Model of Island](https://i.imgur.com/tTnyQZh.gifv)
+![3D Model of Island](https://i.imgur.com/tTnyQZh.gif)
 
