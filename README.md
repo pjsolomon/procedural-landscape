@@ -11,7 +11,7 @@ Several different landscape patterns have been hardcoded into the program, which
 
 ![2D Island Generation](https://i.imgur.com/BdNCSfX.png)
 
-![3D Model of Island]()
+![3D Model of Island](https://i.imgur.com/UAXlCum.png)
 
 # Controls
 Program displays 2D model for 5 seconds, then displays 3D model.
