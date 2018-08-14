@@ -14,25 +14,6 @@ Several different landscape patterns have been hardcoded into the program, which
 ![3D Model of Island](https://i.imgur.com/UAXlCum.png)
 
 # Controls
-Program displays 2D model for 5 seconds, then displays 3D model.
 
-w - Move Forwards
-
-s - Move Backwards
-
-a - Move Left
-
-d - Move Right
-
-
-q - Rotate Left
-
-e - Rotate Right
-
-
-z - Zoom Out
-
-x - Zoom In
-
-
-p - Automatically Rotate Model
+The program has been updated to utilize the peasycam library, available at http://mrfeinberg.com/peasycam/. This allows for simple navegation of the 3D space using mouse controls.
+In addition to transforming the model, the 2D representation may be toggled on or off using the 'm' key, and the stroke can be enabled for easier visualization of the 3D model with the 's' key.
